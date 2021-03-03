@@ -1,1 +1,1 @@
-# <h1> <p id="hitokoto">:D 获取中...</p><script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer=""></script> </h1>
+![20200106](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/20200106.5d936qkmm980.jpg)
