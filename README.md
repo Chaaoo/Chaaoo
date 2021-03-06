@@ -1,1 +1,1 @@
-[邮箱](mailto:894732999@qq.com)  [网盘](https://pan.txca.ga/)  [备用](https://cloud.txca.ga/)  [谷歌](https://go.txca.ml/)  [图床](https://tuku.txca.ga/)
+[![邮件](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/邮件.png)](mailto:894732999@qq.com)
