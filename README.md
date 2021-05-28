@@ -1,28 +1,22 @@
-### 点击图标哦
-[![首页](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/我的.5j0y251up6c0.png)](https://chaoo.fun/)丨
-[![邮件](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/信息.png)](mailto:894732999@qq.com)丨
-[![导航](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/搜索.4v5jvqkxf8g0.png)](https://so.chaoo.fun/)丨
-[![图库](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/图片.png)](https://tuku.chaoo.fun/)丨
-[![监测](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/心电图.6whyo1y09v80.png)](https://ping.chaoo.fun/)丨
-[![博客](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/博客.png)](https://blog.chaoo.fun/)丨
-[![谷歌云](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/drive.png)](https://go.txca.ml/)丨
-[![微软云](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/OneDrive.png)](https://cloud.chaoo.fun/)丨
-[![微软云](https://cdn.jsdelivr.net/gh/Chaaoo/tuku@master/OneDrive.png)](https://cloud.chaoo.fun/)
+#### 一些个人小破站（屑站）
 
-1、个人首页
 
-2、发送邮件
 
-3、自用浏览器首页
+##### [1、个人首页](https://chaoo.fun/)
 
-4、图床
+##### [2、给我发送邮件](mailto:894732999@qq.com)
 
-5、网页检测
+##### [3、自用浏览器首页](https://so.chaoo.fun/)
 
-6、个人博客
+##### [4、图床](https://tuku.chaoo.fun/)
 
-7、谷歌网盘
+##### [5、破站检测](https://ping.chaoo.fun/)
 
-8、微软网盘-基于FODI
+##### [6、个人博客](https://blog.chaoo.fun/)
 
-9、微软网盘-CF-打开1101别怕，刷新就OK。
+##### [7、谷歌网盘](https://go.txca.ml/)
+
+##### [8、微软网盘](https://cloud.chaoo.fun/)-基于[FODI](https://github.com/vcheckzen/FODI)
+
+##### [9、微软网盘](https://pan.chaoo.fun/)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)-打开1101，刷新就OK。
+
