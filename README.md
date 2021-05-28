@@ -8,15 +8,15 @@
 
 ##### [3、自用浏览器首页](https://so.chaoo.fun/)
 
-##### [4、破站检测](https://ping.chaoo.fun/)
+##### [4、个人博客](https://blog.chaoo.fun/)
 
-##### [5、个人博客](https://blog.chaoo.fun/)
+##### [5、破站检测](https://ping.chaoo.fun/)
 
 ##### [6、谷歌网盘](https://go.txca.ml/)
 
 ##### [7、微软网盘](https://cloud.chaoo.fun/)-基于[FODI](https://github.com/vcheckzen/FODI)
 
-##### [8、微软网盘](https://pan.chaoo.fun/)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)-打开1101，刷新就OK。
+##### [8、微软网盘](https://pan.txca.ga/)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)
 
 ##### [9、图床](https://tuku.chaoo.fun/)
 
