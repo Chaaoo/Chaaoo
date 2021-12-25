@@ -20,4 +20,4 @@
 
 ##### [9、图床](https://tuku.chaoo.fun/)
 
-##### [10、微软网盘](https://pan.cooo.ga/)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)
+##### [10、微软网盘](https://www.cooo.ga/)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)
