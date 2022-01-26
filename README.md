@@ -16,8 +16,8 @@
 
 ##### [7、微软网盘](https://cloud.chaoo.fun/)-基于[FODI](https://github.com/vcheckzen/FODI)
 
-##### [8、微软网盘](https://pan.txca.ga/)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)
+##### [8、微软网盘](https://www.cooo.ga)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)
 
 ##### [9、图床](https://tuku.chaoo.fun/)
 
-##### [10、微软网盘](https://www.cooo.ga/)-基于[OneManager](https://github.com/qkqpttgf/OneManager-php)
+##### [10、微软网盘](https://onedrive-vercel-index-1-tau.vercel.app/)-基于[onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index)
