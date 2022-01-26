@@ -20,4 +20,4 @@
 
 ##### [9、图床](https://tuku.chaoo.fun/)
 
-##### [10、微软网盘](https://onedrive-vercel-index-1-tau.vercel.app/)-基于[onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index)
+##### [10、微软网盘](https://pan.chaoo.fun/)-基于[onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index)
