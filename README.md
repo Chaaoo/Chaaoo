@@ -10,12 +10,10 @@
 
 ##### [4、个人博客](https://blog.894732.xyz/)
 
-##### [5、破站检测](https://ping.894732.xyz/)
+##### [5、谷歌网盘](https://go.txca.ml/)
 
-##### [6、谷歌网盘](https://go.txca.ml/)
+##### [6、微软网盘](https://cloud.894732.xyz/)
 
-##### [7、微软网盘](https://cloud.894732.xyz/)
+##### [7、微软网盘](https://pan.894732.xyz/)
 
-##### [8、微软网盘](https://pan.894732.xyz/)
-
-##### [9、微软网盘](https://cooo.chaaoo.repl.co/)
+##### [8、微软网盘](https://cooo.chaaoo.repl.co/)
