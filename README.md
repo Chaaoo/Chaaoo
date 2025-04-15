@@ -10,8 +10,6 @@
 
 ##### [4、个人博客](https://blog.894732.xyz/)
 
-##### [5、谷歌网盘](https://go.txca.ml/)
+##### [5、微软网盘](https://fodi.894732.xyz/)-FODI
 
-##### [6、微软网盘](https://fodi.894732.xyz/)-FODI
-
-##### [7、微软网盘](https://pan.894732.xyz/)-ONEMANAGER-VERCEL
+##### [6、微软网盘](https://pan.894732.xyz/)-ONEMANAGER-VERCEL
